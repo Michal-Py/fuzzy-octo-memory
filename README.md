@@ -1,2 +1,2 @@
-# fuzzy-octo-memory
+# Interactive-Dashboard-Practice
 Interactive Dashboard Practice 
